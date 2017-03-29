@@ -1,0 +1,54 @@
+.row div{
+  border: 3px;
+  margin-bottom: 20px;
+  }
+.row div img{
+    height: 240px;
+    width: 240px;
+    }
+.row div p{
+  border :3px solid white;
+  background-color: #1883ba;
+  color: white;
+}
+
+.row div p.texto{
+  color: white;
+  background-color: #1883ba;
+}
+.row div span.textocampo{
+  color: white;
+}
+
+.row div p img{
+  height: 350px;
+  width: auto;
+  }
+.row{
+  margin-bottom: 20px;
+}
+form{
+  background-image: url('../image/imagen11.jpg');
+  background-repeat: no-repeat;
+  align-items: center;
+}
+form div p.texto{
+  color:  #1883ba;
+}
+h1 {
+   background-image: url('../image/imagen14.jpg');
+   height: 250px;
+   width: 100%;
+   color: white;
+   text-align: center;
+}
+.boton_personalizado{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
